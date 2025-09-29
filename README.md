@@ -12,13 +12,6 @@ Etiquetas (labels)
 
 Campos de texto
 
-## Codigo
-import tkinter as tk
-ventana=tk.tk()
-ventana.title ("Mi ventana")
-ventana.geometry("400x300")
-ventana.mainloop
-
 Menús desplegables
 
 Cuadros de diálogo
@@ -26,3 +19,10 @@ Cuadros de diálogo
 Canvas para gráficos personalizados
 
 Tablas, pestañas, barras de desplazamiento, etc.
+
+## Codigo
+import tkinter as tk
+ventana=tk.tk()
+ventana.title ("Mi ventana")
+ventana.geometry("400x300")
+ventana.mainloop
