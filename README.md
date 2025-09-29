@@ -21,8 +21,8 @@ Canvas para gráficos personalizados
 Tablas, pestañas, barras de desplazamiento, etc.
 
 ## Codigo
-import tkinter as tk
-ventana=tk.tk()
-ventana.title ("Mi ventana")
-ventana.geometry("400x300")
-ventana.mainloop
+import tkinter as tk 
+ventana=tk.Tk() 
+ventana.title ("Mi ventana") 
+ventana.geometry("400x300") 
+ventana.mainloop() 
