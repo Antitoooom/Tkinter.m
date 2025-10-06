@@ -21,21 +21,21 @@ Canvas para gráficos personalizados
 Tablas, pestañas, barras de desplazamiento, etc.
 
 ## Codigo
-# import tkinter as tk 
-# ventana=tk.Tk() 
-# ventana.title ("Mi ventana") 
-# ventana.geometry("400x300")  
+### import tkinter as tk 
+### ventana=tk.Tk() 
+### ventana.title ("Mi ventana") 
+### ventana.geometry("400x300")  
 
 
-# entrada=tk.Entry(ventana)
-# entrada.pack()
-# texto=entrada.get
+### entrada=tk.Entry(ventana)
+### entrada.pack()
+### texto=entrada.get
 
-# def saludar():
-   # print("Hola")
-# boton= tk.Button(ventana,text="saludar", command=saludar)
-# boton.pack()
+### def saludar():
+   ### print("Hola")
+### boton= tk.Button(ventana,text="saludar", command=saludar)
+### boton.pack()
 
-# label= tk.Label(ventana, text="Hola",font=("Arial",14))
-# label.pack()
-# ventana.mainloop() 
+### label= tk.Label(ventana, text="Hola",font=("Arial",14))
+### label.pack()
+### ventana.mainloop() 
